@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harikrisz
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MCA
 - 📫 How to reach me tebiekrish@gmail.com
 
 <!---
